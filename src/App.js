@@ -13,7 +13,7 @@ function App() {
      <Home/>
      <SocialLinks/>
      <About/>
-     <Projects className='my-52'/>
+     <Projects/>
      <Skills/>
      <Contact/>
     </div>
